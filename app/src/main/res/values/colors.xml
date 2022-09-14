@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cor básicas !-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Cor 2° !-->
+    <color name="branco">#ed005d</color>
+    <color name="branco_light">#ff588a</color>
+    <color name="branco_night">#b30034</color>
+
+    <!-- Cor 1°!-->
+    <color name="red_light">#ad3e6c</color>
+    <color name="red_night">#49001b</color>
+    <color name="red">#7a0041</color>
+</resources>
